@@ -1,4 +1,4 @@
-# 최신 Release의 PDF·EPUB·HTML을 GitHub Pages로 배포합니다.
+# 최신 Release의 PDF·EPUB를 GitHub Pages로 배포합니다.
 # 책 QR 코드가 가리키는 https://hollobit.github.io/ai-native/book.pdf 는 브라우저에서 바로 열립니다.
 name: pages
 on:
@@ -29,7 +29,6 @@ jobs:
           cp -r site public
           cp dl/ai-native-handbook-2026.pdf public/book.pdf
           cp dl/ai-native-handbook-2026.epub public/book.epub
-          if [ -f dl/ai-native-handbook-2026.html ]; then cp dl/ai-native-handbook-2026.html public/book.html; fi
           cp cover.jpg public/cover.jpg
           ls -la public
       - uses: actions/configure-pages@v5
