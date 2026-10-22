@@ -18,11 +18,12 @@
 
 | 형식 | 링크 |
 |---|---|
-| PDF (408쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
+| PDF (414쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
+| 웹판 HTML (휴대폰·브라우저에서 바로 읽기) | [hollobit.github.io/ai-native/book.html](https://hollobit.github.io/ai-native/book.html) |
 | EPUB (전자책 단말기·앱) | [hollobit.github.io/ai-native/book.epub](https://hollobit.github.io/ai-native/book.epub) |
 | 안내 페이지 | [hollobit.github.io/ai-native](https://hollobit.github.io/ai-native/) |
 
-위 링크는 항상 최신판을 가리킵니다. 새 Release를 올리면 GitHub Actions가 그 PDF·EPUB를 자동으로 위 주소에 배포합니다. 책 뒤표지와 판권면의 QR 코드도 같은 PDF 주소로 연결됩니다. 지난 판은 [Releases](https://github.com/hollobit/ai-native/releases)에서 볼 수 있습니다.
+위 링크는 항상 최신판을 가리킵니다. 새 Release를 올리면 GitHub Actions가 그 PDF·EPUB·HTML을 자동으로 위 주소에 배포합니다. 책 뒤표지와 판권면의 QR 코드도 같은 PDF 주소로 연결됩니다. 지난 판은 [Releases](https://github.com/hollobit/ai-native/releases)에서 볼 수 있습니다.
 
 ## 판 이력
 
