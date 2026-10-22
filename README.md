@@ -4,6 +4,10 @@
 
 전종홍 지음 · 2026
 
+**버전 1.1** · 고친 날 2026-10-23 · 처음 만든 날 2026-03-14
+
+이 책은 새 소식이 나오면 계속 고쳐 펴내는 살아 있는 문서(living document)입니다. 판마다 버전과 고친 날을 아래 [판 이력](#판-이력)과 책의 판권면에 적습니다.
+
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ko)
 
 > 이 책은 **CC BY-NC-ND 4.0**(저작자표시-비영리-변경금지) 조건으로 공개합니다. 저자를 밝히고 비영리 목적으로만, 내용을 바꾸지 않고 나눌 수 있습니다. 자세한 내용은 아래 [이용 허락](#이용-허락)을 보세요.
@@ -14,10 +18,17 @@
 
 | 형식 | 링크 |
 |---|---|
-| PDF (407쪽, 인쇄용 판형) | [ai-native-handbook-2026.pdf](https://github.com/hollobit/ai-native/releases/latest/download/ai-native-handbook-2026.pdf) |
+| PDF (408쪽, 인쇄용 판형) | [ai-native-handbook-2026.pdf](https://github.com/hollobit/ai-native/releases/latest/download/ai-native-handbook-2026.pdf) |
 | EPUB (전자책 단말기·앱) | [ai-native-handbook-2026.epub](https://github.com/hollobit/ai-native/releases/latest/download/ai-native-handbook-2026.epub) |
 
 위 링크는 항상 최신판을 가리킵니다. 지난 판은 [Releases](https://github.com/hollobit/ai-native/releases)에서 볼 수 있습니다. 책 뒤표지와 판권면의 QR 코드도 같은 PDF 주소로 연결됩니다.
+
+## 판 이력
+
+| 버전 | 고친 날 | 바뀐 점 |
+|---|---|---|
+| [v1.1](https://github.com/hollobit/ai-native/releases/tag/v1.1) | 2026-10-23 | 판 정보(처음 만든 날·버전·고친 날) 표시 |
+| [v1.0](https://github.com/hollobit/ai-native/releases/tag/v1.0) | 2026-10-22 | 첫 공개판: CC BY-NC-ND 4.0, PDF·EPUB 배포, 내려받기 QR |
 
 ## 이용 허락
 
