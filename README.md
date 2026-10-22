@@ -4,7 +4,7 @@
 
 전종홍 지음 · 2026
 
-**버전 1.2** · 고친 날 2026-10-23 · 처음 만든 날 2026-03-14
+**버전 1.3** · 고친 날 2026-10-23 · 처음 만든 날 2026-03-14
 
 이 책은 새 소식이 나오면 계속 고쳐 펴내는 살아 있는 문서(living document)입니다. 판마다 버전과 고친 날을 아래 [판 이력](#판-이력)과 책의 판권면에 적습니다.
 
@@ -28,6 +28,7 @@
 
 | 버전 | 고친 날 | 바뀐 점 |
 |---|---|---|
+| [v1.3](https://github.com/hollobit/ai-native/releases/tag/v1.3) | 2026-10-23 | 제2부 지능 에너지 시스템을 사람과 장비가 짝을 이룬 펜화 그림체로 다시 그림 — 전체 스택(그림 2-2)과 장별 삽화 7점 추가 |
 | [v1.2](https://github.com/hollobit/ai-native/releases/tag/v1.2) | 2026-10-23 | QR 코드를 짧은 주소(hollobit.github.io/ai-native/book.pdf)로 바꾸고 인식률 개선, 휴대폰에서 PDF가 바로 열림 |
 | [v1.1](https://github.com/hollobit/ai-native/releases/tag/v1.1) | 2026-10-23 | 판 정보(처음 만든 날·버전·고친 날) 표시 |
 | [v1.0](https://github.com/hollobit/ai-native/releases/tag/v1.0) | 2026-10-22 | 첫 공개판: CC BY-NC-ND 4.0, PDF·EPUB 배포, 내려받기 QR |
