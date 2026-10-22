@@ -1,0 +1,39 @@
+# 최신 Release의 PDF·EPUB를 GitHub Pages로 배포합니다.
+# 책 QR 코드가 가리키는 https://hollobit.github.io/ai-native/book.pdf 는 브라우저에서 바로 열립니다.
+name: pages
+on:
+  release:
+    types: [published, edited]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch latest release files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          gh release download --repo "$GITHUB_REPOSITORY" --pattern 'ai-native-handbook-2026.*' --dir dl
+          cp -r site public
+          cp dl/ai-native-handbook-2026.pdf public/book.pdf
+          cp dl/ai-native-handbook-2026.epub public/book.epub
+          cp cover.jpg public/cover.jpg
+          ls -la public
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - id: deployment
+        uses: actions/deploy-pages@v4
