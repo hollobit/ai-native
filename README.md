@@ -18,7 +18,7 @@
 
 | 형식 | 링크 |
 |---|---|
-| PDF (414쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
+| PDF (418쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
 | EPUB (전자책 단말기·앱) | [hollobit.github.io/ai-native/book.epub](https://hollobit.github.io/ai-native/book.epub) |
 | 안내 페이지 | [hollobit.github.io/ai-native](https://hollobit.github.io/ai-native/) |
 
@@ -28,6 +28,7 @@
 
 | 버전 | 고친 날 | 바뀐 점 |
 |---|---|---|
+| [v1.3.2](https://github.com/hollobit/ai-native/releases/tag/v1.3.2) | 2026-10-24 | 팩트 체크 및 수정 |
 | [v1.3.1](https://github.com/hollobit/ai-native/releases/tag/v1.3.1) | 2026-10-24 | 지은이 소개와 표지 앞날개에 저자 사진 추가 |
 | [v1.3](https://github.com/hollobit/ai-native/releases/tag/v1.3) | 2026-10-23 | 제2부 지능 에너지 시스템을 사람과 장비가 짝을 이룬 펜화 그림체로 다시 그림 — 전체 스택(그림 2-2)과 장별 삽화 7점 추가 |
 | [v1.2](https://github.com/hollobit/ai-native/releases/tag/v1.2) | 2026-10-23 | QR 코드를 짧은 주소(hollobit.github.io/ai-native/book.pdf)로 바꾸고 인식률 개선, 휴대폰에서 PDF가 바로 열림 |
