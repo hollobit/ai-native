@@ -18,7 +18,7 @@
 
 | 형식 | 링크 |
 |---|---|
-| PDF (415쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
+| PDF (443쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
 | EPUB (전자책 단말기·앱) | [hollobit.github.io/ai-native/book.epub](https://hollobit.github.io/ai-native/book.epub) |
 | 안내 페이지 | [hollobit.github.io/ai-native](https://hollobit.github.io/ai-native/) |
 
@@ -28,6 +28,7 @@
 
 | 버전 | 고친 날 | 바뀐 점 |
 |---|---|---|
+| [v1.5](https://github.com/hollobit/ai-native/releases/tag/v1.5) | 2026-10-26 | 지능 전력망의 나머지 설비(저장·중개·전압계)와 운영 설계 보강 — 제2부 4-1장·제7부 3-1장 추가, 하네스 장과 부록 A 표준 표 보강 |
 | [v1.4](https://github.com/hollobit/ai-native/releases/tag/v1.4) | 2026-10-24 | 중복 내용 재편집 및 목차 조정 |
 | [v1.3.2](https://github.com/hollobit/ai-native/releases/tag/v1.3.2) | 2026-10-24 | 팩트 체크 및 수정 |
 | [v1.3.1](https://github.com/hollobit/ai-native/releases/tag/v1.3.1) | 2026-10-24 | 지은이 소개와 표지 앞날개에 저자 사진 추가 |
