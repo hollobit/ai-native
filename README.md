@@ -16,9 +16,12 @@
 
 ## 소개 영상
 
-[![소개 영상 보기](trailer.jpg)](https://hollobit.github.io/ai-native/trailer.mp4)
+<a href="https://hollobit.github.io/ai-native/trailer.mp4"><img src="trailer.jpg" alt="소개 영상 보기 (77초)" width="49%"></a> <a href="https://hollobit.github.io/ai-native/trailer2.mp4"><img src="trailer2.jpg" alt="제6·7부 미리 보기 (64초)" width="49%"></a>
 
-증기와 전기에 이어 지능이 전기처럼 흐르기 시작한 변화를, 이 책이 전력망의 비유와 7부 89편의 이야기로 어떻게 풀어내는지, 그리고 왜 오픈소스 북으로 공개하는지 77초에 담았습니다. 이미지를 누르면 브라우저에서 바로 재생됩니다([안내 페이지](https://hollobit.github.io/ai-native/#trailer)에서도 볼 수 있습니다).
+- **소개 영상(77초)**: 증기와 전기에 이어 지능이 전기처럼 흐르기 시작한 변화를, 이 책이 전력망의 비유와 7부 89편의 이야기로 어떻게 풀어내는지, 그리고 왜 오픈소스 북으로 공개하는지 담았습니다.
+- **제6·7부 미리 보기(64초)**: 개인 에이전트, Physical AI, 오케스트레이터, 누전과 차단기, 지능 격차를 지나 "발전소는 몇 사람이 짓지만, 전기는 모두의 것이 되었을 때 비로소 세상을 바꿨습니다"까지, 에이전트가 만드는 세상과 지능 에너지 사회의 내일을 담았습니다.
+
+이미지를 누르면 브라우저에서 바로 재생됩니다([안내 페이지](https://hollobit.github.io/ai-native/#trailer)에서도 볼 수 있습니다).
 
 ## 내려받기
 
