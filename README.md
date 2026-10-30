@@ -4,7 +4,7 @@
 
 전종홍 지음 · 2026
 
-**버전 1.6** · 고친 날 2026-10-30 · 처음 만든 날 2026-03-14
+**버전 1.6.1** · 고친 날 2026-10-30 · 처음 만든 날 2026-03-14
 
 이 책은 새 소식이 나오면 계속 고쳐 펴내는 살아 있는 문서(living document)입니다. 판마다 버전과 고친 날을 아래 [판 이력](#판-이력)과 책의 판권면에 적습니다.
 
@@ -27,7 +27,7 @@
 
 | 형식 | 링크 |
 |---|---|
-| PDF (443쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
+| PDF (445쪽, 브라우저에서 바로 열림) | [hollobit.github.io/ai-native/book.pdf](https://hollobit.github.io/ai-native/book.pdf) |
 | EPUB (전자책 단말기·앱) | [hollobit.github.io/ai-native/book.epub](https://hollobit.github.io/ai-native/book.epub) |
 | 안내 페이지 | [hollobit.github.io/ai-native](https://hollobit.github.io/ai-native/) |
 
@@ -37,6 +37,7 @@
 
 | 버전 | 고친 날 | 바뀐 점 |
 |---|---|---|
+| [v1.6.1](https://github.com/hollobit/ai-native/releases/tag/v1.6.1) | 2026-10-30 | 본문 다듬기 — 정책 과제 번호·일정을 부록 E로, 방법론 단서는 각주로, 그림·표 중복 정리, 6·7부 장 도입과 정책 장의 톤 정리 |
 | [v1.6](https://github.com/hollobit/ai-native/releases/tag/v1.6) | 2026-10-30 | 전체적으로 중복 문장 축소 및 설명 간소화 — 제2·6부 압축(숫자표는 부록 E로), 세 성질 표를 제1부로, 저자 현장 사례 2편, 문체 정리, 455쪽 → 443쪽 |
 | [v1.5.7](https://github.com/hollobit/ai-native/releases/tag/v1.5.7) | 2026-10-28 | 교정판 — 외부 종합 리뷰의 사실·일관성 교정(공공 AX 589건의 범위, 변환소·터빈 비유, AI Co-Scientist·시험 표준 설명, 일곱 국가·지역), PDF 별표 표시 오류 수정 |
 | [v1.5.6](https://github.com/hollobit/ai-native/releases/tag/v1.5.6) | 2026-10-26 | 교정 및 리뷰 코멘트 반영 — 6부 7·8장 합병, SKILL.md 상자, PDF 책갈피·목차 링크·찾아보기 쪽수 |
